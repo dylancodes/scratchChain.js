@@ -1,0 +1,23 @@
+{
+  "name": "scratchchain",
+  "version": "1.0.0",
+  "description": "An intro to blockchain using javascript",
+  "main": "index.js",
+  "dependencies": {
+    "crypto-js": "3.1.9-1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylancodes/scratchChain.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dylancodes/scratchChain.js/issues"
+  },
+  "homepage": "https://github.com/dylancodes/scratchChain.js#readme"
+}
