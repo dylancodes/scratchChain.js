@@ -5,8 +5,8 @@ let scratchChain = new Blockchain();
 
 const currentDate = new Date();
 
-scratchChain.addNewBlock(new Block(1, currentDate, { greatestRapperOfAllTime: "Biggie Smalls" }));
-scratchChain.addNewBlock(new Block(2, currentDate, { favoriteRapperOfAllTime: "Andre 3000" }));
+scratchChain.addNewBlock(new Block(1, currentDate, { greatestRapperOfAllTime: "Kendrick Lamar" }));
+scratchChain.addNewBlock(new Block(2, currentDate, { favoriteRapperOfAllTime: "J. Cole" }));
 
 console.log("Is chain valid? " + scratchChain.isChainValid());
 
